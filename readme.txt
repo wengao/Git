@@ -5,6 +5,11 @@ Git tracks changes of files.
 
 git checkout 其实是用版本库里的版本替换工作区的版本
 Creating a new branch is quick.
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick and simple.
+
+>>>>>>> feature1
 
 
