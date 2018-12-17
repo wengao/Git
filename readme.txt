@@ -15,3 +15,8 @@ Creating a new branch is quick and simple.
 Switched to a new branch 'dev'
 
 
+git commit 命令后不能退出来，使用ESC 然后大写字母Z 连续按2下
+
+add a line
+
+
